@@ -2,9 +2,9 @@
     
     return [
         'host' => 'localhost',
-        'dbname' => 'cibizov',
-        'user' => 'cibizov',
-        'pass' => 'neto1762',
+        'dbname' => 'netology',
+        'user' => 'root',
+        'pass' => 'php23net',
         'options' => [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         ]
